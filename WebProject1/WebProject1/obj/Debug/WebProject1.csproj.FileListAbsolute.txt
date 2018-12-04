@@ -1,0 +1,6 @@
+/Users/megshithakur/Projects/WebProject1/WebProject1/bin/WebProject1.dll
+/Users/megshithakur/Projects/WebProject1/WebProject1/bin/WebProject1.pdb
+/Users/megshithakur/Projects/WebProject1/WebProject1/obj/Debug/WebProject1.csprojAssemblyReference.cache
+/Users/megshithakur/Projects/WebProject1/WebProject1/obj/Debug/WebProject1.csproj.CoreCompileInputs.cache
+/Users/megshithakur/Projects/WebProject1/WebProject1/obj/Debug/WebProject1.dll
+/Users/megshithakur/Projects/WebProject1/WebProject1/obj/Debug/WebProject1.pdb
